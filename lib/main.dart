@@ -115,7 +115,7 @@ class _EncabezadoSection extends StatelessWidget {
         crossAxisAlignment:
             isTablet ? CrossAxisAlignment.start : CrossAxisAlignment.center,
         children: [
-          // Foto de perfil
+          // Foto de perfil obiamente una random , por privasidad :(
           CircleAvatar(
             radius: isTablet ? 60 : 50,
             backgroundColor: Colors.white,
