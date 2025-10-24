@@ -30,7 +30,7 @@ class PerfilHome extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text(isTablet ? 'Mi Perfil - Vista Tblet' : 'Mi Perfil'),
+        title: Text(isTablet ? 'Mi Perfil - Vista Tablet' : 'Mi Perfil'),
         centerTitle: true,
         elevation: 2,
       ),
